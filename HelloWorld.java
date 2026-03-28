@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println("Welcome to Java programming.");
+        System.out.println("Welcome to Java programming using copilot.");
         
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a value for variableA: ");
